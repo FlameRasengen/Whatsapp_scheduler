@@ -1,0 +1,13 @@
+package com.springbbot.scheduler.Scheduler_whatsapp;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class SchedulerWhatsappApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
